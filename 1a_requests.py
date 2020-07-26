@@ -1,4 +1,4 @@
-# 使用requests库获取豆瓣影评 test
+# 使用requests库获取豆瓣影评
 
 import requests
 
